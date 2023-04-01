@@ -140,7 +140,7 @@ Test the deployment: Test the deployed application to ensure that it is working 
 Monitor the deployment: Monitor the deployed application to ensure that it is running smoothly and that there are no performance or security issues
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](HarshitXXXX/EBill/BillPrintingSystem.webp)
+[bg width:1000px](HarshitXXXX/EBill/BillPrintingSystem.webp)
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLync](Harshit Bhagwan Gaikwad) - FSD
