@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="C:\Users\Harshit Gaikwad\Pictures\Screenshots\Screenshot_20230316_152932.png" Electric Bill System
+ <img width=500px height=200px src="Ebill1.png" Electric Bill System
 
 # project-documentation
 
